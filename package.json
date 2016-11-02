@@ -1,6 +1,6 @@
 {
   "name": "winston-ninjalog",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "ninjalog.io transport for winston",
   "author": "Tyson Holub <tyson@tysonholub.com>",
   "keywords": [
